@@ -1,0 +1,58 @@
+
+
+.ocean{
+    display: inline-block;
+    text-align: center;
+}
+
+#one{
+    width:0px;
+    height: 0px;
+    background: url(1.1.gif) no-repeat;
+    padding-right: 320px;
+    padding-bottom: 180px;
+}
+#one:hover{
+    background: url(1.1blue.gif)no-repeat;
+}
+#two{
+    width:0px;
+    height: 0px;
+    background: url(2.2.gif) no-repeat;
+    padding-right: 320px;
+    padding-bottom: 180px;  
+}
+#two:hover{
+    background: url(2.2blue.gif)no-repeat;
+}
+#three{
+     width:0px;
+    height: 0px;
+    background: url(2.3.gif) no-repeat;
+    padding-right: 320px;
+    padding-bottom: 180px;
+}
+#three:hover{
+    background: url(2.3blue.gif)no-repeat;
+}
+#four{
+    width:0px;
+    height: 0px;
+    background: url(3.4.gif) no-repeat;
+    padding-right: 320px;
+    padding-bottom: 180px;
+}
+#four:hover{
+    background: url(3.4blue.gif)no-repeat;
+}
+
+#five{
+     width:0px;
+    height: 0px;
+    background: url(4.2.gif) no-repeat;
+    padding-right: 320px;
+    padding-bottom: 180px;
+}
+#five:hover{
+    background: url(4.2blue.gif)no-repeat;
+}
